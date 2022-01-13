@@ -1,0 +1,104 @@
+{
+  "best-products": [
+    {
+      "id": 1,
+      "kode": "K-01",
+      "nama": "Janji Jiwa",
+      "harga": 16000,
+      "is_ready": true,
+      "gambar": "janji-jiwa.jpg"
+    },
+    {
+      "id": 2,
+      "kode": "K-02",
+      "nama": "Kenangan",
+      "harga": 14000,
+      "is_ready": true,
+      "gambar": "kenangan.jpg"
+    },
+    {
+      "id": 3,
+      "kode": "K-03",
+      "nama": "Boba",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "boba.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "kode": "K-01",
+      "nama": "Janji Jiwa",
+      "harga": 16000,
+      "is_ready": true,
+      "gambar": "janji-jiwa.jpg"
+    },
+    {
+      "id": 2,
+      "kode": "K-02",
+      "nama": "Kenangan",
+      "harga": 14000,
+      "is_ready": true,
+      "gambar": "kenangan.jpg"
+    },
+    {
+      "id": 3,
+      "kode": "K-03",
+      "nama": "Boba",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "boba.jpg"
+    },
+    {
+      "id": 4,
+      "kode": "K-04",
+      "nama": "Kapal Api",
+      "harga": 14000,
+      "is_ready": true,
+      "gambar": "kapal-api.jpg"
+    },
+    {
+      "id": 5,
+      "kode": "K-05",
+      "nama": "Kapal Api",
+      "harga": 13000,
+      "is_ready": true,
+      "gambar": "kapal-api-mix.jpg"
+    },
+    {
+      "id": 6,
+      "kode": "K-06",
+      "nama": "Fire Ship",
+      "harga": 10000,
+      "is_ready": true,
+      "gambar": "fire-ship.jpg"
+    },
+    {
+      "id": 7,
+      "kode": "K-07",
+      "nama": "Ordinary",
+      "harga": 5000,
+      "is_ready": true,
+      "gambar": "ordinary.jpg"
+    },
+    {
+      "id": 8,
+      "kode": "K-08",
+      "nama": "Ko",
+      "harga": 5000,
+      "is_ready": true,
+      "gambar": "ko.jpg"
+    },
+    {
+      "id": 9,
+      "kode": "K-09",
+      "nama": "Milk",
+      "harga": 18000,
+      "is_ready": true,
+      "gambar": "milk.jpg"
+    }
+  ],
+  "keranjangs": [],
+  "pesanans": []
+}
